@@ -1,0 +1,20 @@
+{
+  "name": "document-api",
+  "version": "1.0.0",
+  "description": "Serveur livre numérique",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Dave Létourneau",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.6",
+    "socket.io": "^2.0.3"
+  }
+}
