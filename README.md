@@ -1,2 +1,8 @@
 # livrenum-server
-Serveur pour LivreNum
+
+Serveur pour le projet [LivreNum](https://github.com/ex-situ/livrenum)
+
+## Dépendances
+
+- mongodb
+- node
